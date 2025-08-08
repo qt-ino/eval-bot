@@ -49,7 +49,7 @@ from telegram.error import (
 )
 
 # BOT CONFIGURATION
-BOT_USERNAME = "CodeEvalBot"  # Replace with your bot username
+BOT_USERNAME = "iCodeEvalBot"  # Replace with your bot username
 UPDATES_CHANNEL = "https://t.me/WorkGlows"
 SUPPORT_GROUP = "https://t.me/SoulMeetsHQ"
 MAX_MESSAGE_LENGTH = 400  # Character limit for messages
